@@ -1,2 +1,2 @@
-# *daniel_teste*
+# daniel_teste
 Meu primeiro repo git
